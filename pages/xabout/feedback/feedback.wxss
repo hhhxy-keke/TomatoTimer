@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.feedback-label {
+  float: left;
+  margin-top: 20rpx;
+  font-size: 32rpx;
+}
+
+.feedback-text {
+  margin-top: 5rpx;
+  background-color: #fff;
+  padding: 20rpx;
+  font-size: 32rpx;
+  width: 80%;
+  border-radius: 10rpx;
+}
+
+.connect-label {
+  margin-top: 5rpx;
+  font-size: 32rpx;
+}
+
+.connect-text {
+  margin-top: 5rpx;
+  background-color: #fff;
+  padding: 20rpx;
+  font-size: 32rpx;
+  width: 80%;
+  height: 120rpx;
+  border-radius: 10rpx;
+}
+
+.feedback-button {
+  margin-top: 20rpx;
+  width: 88%;
+  height: 60rpx;
+  font-size: 38rpx;
+}

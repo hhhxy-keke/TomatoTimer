@@ -1,0 +1,55 @@
+/* pages/xabout/clause/clause.wxss */
+.container {
+    background-color: #244aa323;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    box-sizing: border-box;
+  }
+
+  .container2 {
+    background-color: #244aa323;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+
+  .container3 {
+    background-color: #244aa323;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+
+.text-head {
+    font-family: STHeiti;
+    font-size: 32rpx;
+}
+
+.clause {
+    font-family: Songti SC;
+    font-size: 32rpx;
+}
+
+.name {
+    margin-top: 29rpx;
+    font-family: Adobe Fangsong Std;
+    font-size: 32rpx;
+    color: #585858;
+  }
+
+  .nametitle {
+    margin-top: 28rpx;
+    font-family: Adobe Fangsong Std;
+    font-weight:700;
+    font-size: 32rpx;
+    color: #585858;
+  }
+
+  .logo {
+    width: 300rpx;
+    height: 300rpx;
+    margin-top: 20rpx;
+  }
+  

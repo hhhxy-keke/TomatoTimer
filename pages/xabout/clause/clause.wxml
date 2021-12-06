@@ -1,0 +1,18 @@
+<!--pages/xabout/clause/clause.wxml-->
+
+<view class="container3">
+    <text class="text-head">Copyright (C) 2021 NEUQ\n</text>
+    <text class="clause" decode="{{true}}">欢迎使用"东秦·时间里"程序及服务！\n
+    </text>
+    <text class="nametitle">⭐几句心里话\n </text>
+</view>
+
+<view class="container">
+    
+    <text class="name" decode="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;"东秦·时间里"是我们的一款课设作品。过去的学习生活里，我们常常被手机电脑分散了注意力。在设计构思中，我们致力于将小程序设置为极简风格，摒弃多余的复杂功能，回归一款时间管理程序本身的意义。\n &nbsp;&nbsp;&nbsp;&nbsp;"时间里"希望利用番茄工作法促进人们集中注意力、提升效率，把时间留给重要的事、重要的人。如果这款小程序有帮助到你，请分享出去，让更多人受益。\n</text>
+    <text class="clause" decode="{{true}}">\n⭐好的建议请点击下方"用户反馈"，期待你的好点子~\n</text>
+    <text class="clause">
+    THANK YOU FOR YOUR SUPPPORT
+</text>
+<image class="logo" src="/image/logo2.png"></image>
+</view>

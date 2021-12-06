@@ -1,0 +1,17 @@
+<!--pages/xabout/tomato/tomato.wxml-->
+<view class="container">
+<view class='text-head'>
+  <view class='text-head'>\n
+  </view>
+  <view class='text-head'>⭐什么是番茄工作法？
+  </view>
+  <view class='clause'>
+    <text class="clause" decode="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp; 番茄工作法是简单易行的时间管理方法。使用番茄工作法，选择一个待完成的任务，将番茄时间设为25分钟，专注工作，中途不允许做任何与该任务无关的事，直到番茄时钟响起，然后进行短暂休息一下（5分钟就行），然后再开始下一个番茄。每4个番茄时段多休息一会儿。\n</text>
+    <text class="clause" decode="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp; 番茄工作法极大地提高了工作的效率，还会有意想不到的成就感。</text>
+  </view>
+<text class='tips'>⭐正确的专注力养成姿势：不要切后台 不要息屏~ \n
+</text>
+<image class="logo" src="/image/pic4.png"></image>
+<text class='tips2' decode="{{true}}"> \n ⭐更多功能敬请期待！</text>
+</view>
+</view>

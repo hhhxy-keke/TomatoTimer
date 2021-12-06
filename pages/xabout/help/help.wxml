@@ -1,0 +1,13 @@
+<view class="container">
+  <image class="logo" src="/image/logo2.png"></image>
+  <text class="title">东秦·时间里 v3.0.0 \n
+  </text>
+  <text class="title2">开发者信息</text>
+  <text class="name" decode="{{true}}">侯欣雨&nbsp;&nbsp;&nbsp;&nbsp;HXinyu0926@163.com</text>
+  <text class="name" decode="{{true}}">付翮飞&nbsp;&nbsp;&nbsp;&nbsp;fuhefei2000@163.com</text>
+  <text class="name" decode="{{true}}">袁雨琴&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;185568073@qq.com</text>
+  <text class="name" decode="{{true}}">薛艳艳&nbsp;&nbsp;&nbsp;&nbsp;3499771651@qq.com \n
+  </text>
+  <image class="user-avatar" src="/image/pic3.jpg"></image>
+  <text class="copy">NEUQ@计算机与通信工程学院</text>
+</view>

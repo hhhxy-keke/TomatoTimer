@@ -1,0 +1,44 @@
+/* pages/xabout/clause/clause.wxss */
+.container {
+  background-color: #244aa323;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.text-head {
+  font-family: STHeiti;
+  font-size: 32rpx;
+  font-weight: 700;
+}
+
+.clause {
+  font-family: Adobe Fangsong Std;
+  font-size: 32rpx;
+  color: #585858;
+  font-weight: 500;
+}
+
+.tips {
+  font-family: STHeiti;
+  font-weight: 550;
+  font-size: 32rpx;
+}
+
+.tips2 {
+  font-family: STHeiti;
+  font-weight: 530;
+  font-size: 32rpx;
+  margin-left: 60rpx;
+}
+
+.logo {
+  width: 550rpx;
+  height: 400rpx;
+  margin-top: 25rpx;
+  margin-bottom: 20rpx;
+  margin-left: 60rpx;
+  align-items: center;
+}

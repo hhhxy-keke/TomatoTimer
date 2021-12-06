@@ -1,0 +1,51 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/setting/setting",
+        "pages/xabout/xabout",
+        "pages/xabout/clause/clause",
+        "pages/xabout/help/help",
+        "pages/xabout/feedback/feedback",
+        "pages/xabout/tomato/tomato"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#e43535",
+        "navigationBarTitleText": "东秦 · 时间里",
+        "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "color": "#dddddd",
+        "selectedColor": "#3cc51f",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "image/tomato.png",
+                "selectedIconPath": "image/tomatoHL.png",
+                "text": "主页"
+            },
+            {
+                "pagePath": "pages/logs/logs",
+                "iconPath": "image/tomato.png",
+                "selectedIconPath": "image/tomatoHL.png",
+                "text": "记录"
+            },
+            {
+                "pagePath": "pages/setting/setting",
+                "iconPath": "image/tomato.png",
+                "selectedIconPath": "image/tomatoHL.png",
+                "text": "设置"
+            },
+            {
+                "pagePath": "pages/xabout/xabout",
+                "iconPath": "image/tomato.png",
+                "selectedIconPath": "image/tomatoHL.png",
+                "text": "关于软件"
+            }
+        ]
+    },
+    "sitemapLocation": "sitemap.json"
+}
